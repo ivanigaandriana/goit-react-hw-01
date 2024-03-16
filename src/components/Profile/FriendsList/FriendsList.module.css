@@ -1,0 +1,18 @@
+.friendListItemContainer{
+    margin: 20px;
+}
+.friendList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.online {
+    color: green;
+  }
+  
+  .offline {
+    color: red;
+  }
+.friendListItem{
+    border: 1px solid green;
+}
