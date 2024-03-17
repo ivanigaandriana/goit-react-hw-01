@@ -1,0 +1,10 @@
+.friendListItemContainer{
+    margin: 20px;
+}
+.online {
+    color: green;
+  }
+  
+  .offline {
+    color: red;
+  }
